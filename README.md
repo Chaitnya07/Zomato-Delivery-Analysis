@@ -1,3 +1,5 @@
+![Sample Image](https://usenotioncms.com/proxy-prod/block/7aa08d67-759a-443e-aa07-376cbe7332ac/c5b09c36-a829-4cab-8c13-793616bf9d8a/0c6dd80e-bb72-49cb-94bf-9d9bea9c99b9/Desktop_-_10.png)
+
 # Zomato-Delivery-Analysis with SQL (SQL Server)
 
 This project involves an in-depth exploration and analysis of a Zomato dataset containing over 9000 rows of restaurant data, including information such as restaurant IDs, names, cities, locations, cuisines, and more. The goal is to gain a comprehensive understanding of the restaurant business as represented by the dataset.
